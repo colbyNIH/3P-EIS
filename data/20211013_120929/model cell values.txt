@@ -1,0 +1,5 @@
+Ra = 3.165 kOhms
+Rb = 2.874 kOhms
+Rp = 3.894 kOhms - disconnected (I think)
+Ca = 10 uF
+Cb = 1 uF
