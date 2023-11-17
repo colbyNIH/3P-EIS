@@ -76,7 +76,7 @@ The data subfolder is where all raw data is expected. The expected format of the
 
 ## Support
 
-For questions or access to additional raw data, contact Craig Forest at cforest@gatech.edu.
+For questions or access to additional raw data used to generate the data in this journal article, contact Craig Forest at cforest@gatech.edu.
 
 ## Acknowledgments
 
